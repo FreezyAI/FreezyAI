@@ -7,7 +7,7 @@
 - 🌱 Currently working in ShangHai, China.
 - 💬 Please don't contact me
 - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- ⚡ Fun fact: Nothing
 
 ### 🛠 技术栈 | Tech Stack
 
