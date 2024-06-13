@@ -3,7 +3,7 @@
 
 ### I'm FrozenDust
 
-- 📖A  Senior Grade Three Student
+- 📖An Ordinary College Student
 - 🌱 Currently living in ShangHai, China.
 - 💬 Please don't contact me
 - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
